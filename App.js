@@ -35,7 +35,7 @@ function App() {
           </Container>
       </header>
       <footer className='foot' style={{fontSize: 10 , backgroundColor: 'black', color: 'white'}}>
-        Paul Staples 2021
+        Paul Staples ©2021
         Background courtesy of WallpaperAccess
       </footer>
     </div>
