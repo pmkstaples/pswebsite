@@ -38,7 +38,7 @@ class Done extends React.Component {
                     <Card.Img src={tsc} alt="Two tanks facing each other on a plane, with a scoreboard along the top." />
                     <Card.Text>
                       <div className='Desc'>
-                      An easy Battle Tanks style game built from the ground up in C and 68000 Assembly, on an Atari-ST Emulator. Every piece of this game and engine were built specifically
+                      An easy Battle Tanks! style game built from the ground up in C and 68000 Assembly, on an Atari-ST Emulator. Every piece of this game and engine were built specifically
                       to bypass any OS-level work and directly interface with all levels of hardware, including rendering, sound playback and custom interrupts.
                       </div>
                     </Card.Text>
