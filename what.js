@@ -32,7 +32,7 @@ class What extends React.Component {
                             <li>Generalist</li>
                             <div className="Desc">
                                 In any position I've been in, I take pride in learning enough to be able to fill any role, making myself as valuable as possible. Having someone 
-                                to fill any gaps in a team keeps everything smooth and timely. 
+                                to fill any gaps in a team keeps everything smooth and timely! 
                             </div>
                         </ul>
                     </Card.Text>
